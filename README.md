@@ -3,4 +3,4 @@ This is my first github Repositary.
 <br>
 My name is Rakesh 
 <br>
-I am from Bhubaneswar
+I am from Bhubaneswar(Khordha)
